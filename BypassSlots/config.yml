@@ -1,0 +1,4 @@
+slots: 7
+ServerFullMsg: This is full Server Now
+ShowMaxPluginSlots: false
+FakeMaxPlayersSlots: 20

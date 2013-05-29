@@ -1,0 +1,4 @@
+name: BypassSlots
+description: Bypass Slots to server
+version: 1.2
+main: pl.grzegorz2047.Main
